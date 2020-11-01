@@ -1,0 +1,16 @@
+1.安装：
+  需要安装NodeJS
+  需要安装jquery
+
+2.CDN方式：
+  CSS:
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/semantic-ui@2.4.2/dist/semantic.min.css">
+  JS:
+  <script src="https://cdn.jsdelivr.net/npm/semantic-ui@2.4.2/dist/semantic.min.js"></script>
+
+3.Semantic UI 2.4新增功能：
+  * ui placeholder segment
+  * Dropdown增加clearable设置，重置到空状态
+  * 新的UI组件
+    *placeholders
+  
